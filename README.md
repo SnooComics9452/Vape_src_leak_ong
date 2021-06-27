@@ -1,2 +1,3 @@
-# vape-v4-source
-The sources for my pretty much fully pasted vape v4 crack
+# Vape V4 Source
+
+These are the sources of the patcher and dll kernel hook for my vape v4 cracks NOTE THESE ARE PATCHED NOW LOL
